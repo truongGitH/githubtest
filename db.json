@@ -1,0 +1,30 @@
+{
+    "posts": [
+      { "id": "1", "product": "Máy giặt1", "price": 100 },
+      { "id": "2", "product": "Máy giặt2", "price": 100 },
+      { "id": "3", "product": "Máy giặt3", "price": 100 },
+      { "id": "4", "product": "Máy giặt4", "price": 100 },
+      { "id": "5", "product": "Máy giặt5", "price": 100 },
+      { "id": "6", "product": "Máy giặt6", "price": 100 },
+      { "id": "7", "product": "Máy giặt7", "price": 100 },
+      { "id": "8", "product": "Máy giặt8", "price": 100 },
+      { "id": "9", "product": "Máy giặt9", "price": 100 },
+      { "id": "10", "product": "Máy giặt10", "price": 100 },
+      { "id": "11", "product": "Máy giặt11", "price": 100 },
+      { "id": "12", "product": "Máy giặt12", "price": 100 },
+      { "id": "13", "product": "Máy giặt13", "price": 100 },
+      { "id": "14", "product": "Máy giặt14", "price": 100 },
+      { "id": "15", "product": "Máy giặt15", "price": 100 },
+      { "id": "16", "product": "Máy giặt16", "price": 100 },
+      { "id": "17", "product": "Máy giặt17", "price": 100 },
+      { "id": "18", "product": "Máy giặt18", "price": 100 },
+      { "id": "19", "product": "Máy giặt19", "price": 100 },
+      { "id": "20", "product": "Máy giặt20", "price": 100 },
+      { "id": "21", "product": "Máy giặt21", "price": 100 },
+      { "id": "22", "product": "Máy giặt22", "price": 100 },
+      { "id": "23", "product": "Máy giặt23", "price": 100 },
+      { "id": "24", "product": "Máy giặt24", "price": 100 },
+      { "id": "25", "product": "Máy giặt25", "price": 100 },
+      { "id": "26", "product": "Tủ lạnh", "price": 200 }
+    ]
+  }
